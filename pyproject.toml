@@ -1,7 +1,7 @@
 [project]
 name = "digisinc-chatbot"
 version = "0.1.0"
-description = "Add your description here"
+description = "RAG support chatbot for a marketing agency (FastAPI, Pinecone, Groq)"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
